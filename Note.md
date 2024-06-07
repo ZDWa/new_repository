@@ -49,4 +49,23 @@
 1. 测试一级
    * 测试二级
    2. 测试三级
+---
+## 代码片段
+```c
+      #include<stdio.h>
+```
+
+```cpp
+      #include<iostream>
+```
+
+``` python
+          import <os>
+```
+
+```bash
+       echo "测试"
+       pwd
+```
+
 
